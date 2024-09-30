@@ -28,5 +28,9 @@ I have worked on various projects, from small startups to enterprise solutions, 
 
 **Portfolio**: https://lenn0n.xyz
 
-## 🌟 Web Projects
-![Preview](https://github.com/lenn0n/frontendDevChallenge/blob/master/src/assets/preview/preview.webp)
+## 🌟 Personal Web Projects / Mockups
+![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040655.png?raw=true)
+![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040626.png?raw=true)
+![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040602.png?raw=true)
+![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040845.png?raw=true)
+![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20041043.png?raw=true)
