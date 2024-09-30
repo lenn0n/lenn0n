@@ -15,11 +15,11 @@ I have worked on various projects, from small startups to enterprise solutions, 
 ✨ **Other** - *Microservices, Server-Side Rendering (SSR), Static Site Generation (SSG)*
 
 ## 💡 Current Focus
-🏳️ Learning Next.js and exploring static site generation (SSG).
+🏳️ Learning Next.js and exploring MongoDB.
 
 🏳️ Working on mockup projects to refine my frontend skills.
 
-🏳️ Improving my soft skills to become a lead someday.
+🏳️ Improving my soft skills to have better articulation of thoughts.
 
 ## 📫 Let's Connect!
 **LinkedIn**: https://www.linkedin.com/in/lennonbenedictjansuy/
