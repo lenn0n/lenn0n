@@ -12,7 +12,7 @@ I have worked on various projects, from small startups to enterprise solutions, 
 
 ✨ **DevOps** - *Docker, Kubernetes, Git, Github Actions, Jenkins, AWS, Firebase FCM*
 
-✨ **Other** - *Microservices, Server-Side Rendering (SSR), Static Site Generation (SSG)*
+✨ **Other** - *Typescript, Javascript, SSR, SSG, Web Accessibility*
 
 ## 💡 Current Focus
 🏳️ Learning Next.js and exploring MongoDB.
