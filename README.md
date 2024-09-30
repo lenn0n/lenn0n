@@ -29,3 +29,4 @@ I have worked on various projects, from small startups to enterprise solutions, 
 **Portfolio**: https://lenn0n.xyz
 
 ## 🌟 Web Projects
+![Preview](https://github.com/lenn0n/frontendDevChallenge/blob/master/src/assets/preview/preview.webp)
