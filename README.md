@@ -33,4 +33,4 @@ I have worked on various projects, from small startups to enterprise solutions, 
 ![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040626.png?raw=true)
 ![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%200406022.png?raw=true)
 ![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040845.png?raw=true)
-![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20041043.png?raw=true)
+![Preview](https://raw.githubusercontent.com/lenn0n/nr-admin-app/master/public/light.png)
