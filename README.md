@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Lennon!
+
 I'm a passionate web developer with expertise in React.js, Vue.js, Next.js, and backend services. 
 
 I have worked on various projects, from small startups to enterprise solutions, always focusing on delivering clean, maintainable code.
@@ -13,6 +14,8 @@ I have worked on various projects, from small startups to enterprise solutions, 
 ✨ **DevOps** - *Docker, Kubernetes, Git, Github Actions, Jenkins, AWS, Firebase FCM*
 
 ✨ **Other** - *Typescript, Javascript, SSR, SSG, Web Accessibility*
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,vue,tailwindcss,bootstrap,webpack,nodejs,nginx,nextjs,redux,k8s,jenkins,aws,firebase,mongodb,express,docker,jest,git)](https://lenn0n.xyz)
 
 ## 💡 Current Focus
 🏳️ Learning Next.js and exploring MongoDB.
