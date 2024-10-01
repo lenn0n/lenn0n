@@ -32,9 +32,9 @@ I have worked on various projects, from small startups to enterprise solutions, 
 **Portfolio**: https://lenn0n.xyz
 
 ## 🌟 Personal Web Projects / Mockups
-![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040655.png?raw=true)
-![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040626.png?raw=true)
-![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%200406022.png?raw=true)
+[![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040655.png?raw=true)](https://lenn0n.xyz)
+[![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040626.png?raw=true)](https://frontend-web-dev-lenn0n.web.app/)
+[![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%200406022.png?raw=true)](https://frontend-test-lenn0n.web.app/)
 ![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040845.png?raw=true)
 ![Preview](https://raw.githubusercontent.com/lenn0n/nr-admin-app/master/public/light.png)
-![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-10-01%20015740.png?raw=true)
+[![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-10-01%20015740.png?raw=true)](https://purple-dreams.web.app)
