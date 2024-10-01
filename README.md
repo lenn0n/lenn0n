@@ -15,7 +15,7 @@ I have worked on various projects, from small startups to enterprise solutions, 
 
 ✨ **Other** - *Typescript, Javascript, SSR, SSG, Web Accessibility*
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,vue,tailwindcss,bootstrap,webpack,nodejs,nginx,nextjs,redux,k8s,jenkins,aws,firebase,mongodb,express,docker,jest,git&perline=10&theme=light)](https://lenn0n.xyz)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bootstrap,nginx,redux,k8s,docker,jest,git,mongodb,express,react,vue,tailwindcss,webpack,nodejs,nextjs,jenkins,aws,firebase&perline=10&theme=dark)](https://lenn0n.xyz)
 
 ## 💡 Current Focus
 🏳️ Learning Next.js and exploring MongoDB.
