@@ -15,8 +15,6 @@ I have worked on various projects, from small startups to enterprise solutions, 
 
 ✨ **Other** - *Typescript, Javascript, SSR, SSG, Web Accessibility*
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bootstrap,nginx,redux,k8s,docker,jest,git,mongodb,express,react,vue,tailwindcss,webpack,nodejs,nextjs,jenkins,aws,firebase&perline=30&theme=dark)](https://lenn0n.xyz)
-
 ## 💡 Current Focus
 🏳️ Learning Next.js and exploring MongoDB.
 
@@ -32,6 +30,9 @@ I have worked on various projects, from small startups to enterprise solutions, 
 **Portfolio**: https://lenn0n.xyz
 
 ## 🌟 Personal Web Projects / Mockups
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bootstrap,nginx,redux,k8s,docker,jest,git,mongodb,express,react,vue,tailwindcss,webpack,nodejs,nextjs,jenkins,aws,firebase&perline=30&theme=dark)](https://lenn0n.xyz)
+
 [![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040655.png?raw=true)](https://lenn0n.xyz)
 [![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040626.png?raw=true)](https://frontend-web-dev-lenn0n.web.app/)
 [![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%200406022.png?raw=true)](https://frontend-test-lenn0n.web.app/)
