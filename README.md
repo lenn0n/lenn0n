@@ -4,6 +4,8 @@ I'm a passionate web developer with expertise in React.js, Vue.js, Next.js, and 
 
 I have worked on various projects, from small startups to enterprise solutions, always focusing on delivering clean, maintainable code.
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bootstrap,nginx,redux,k8s,docker,jest,git,mongodb,express,react,vue,tailwindcss,webpack,nodejs,nextjs,jenkins,aws,firebase&perline=10&theme=dark)](https://lenn0n.xyz)
+
 ## 🚀 Tech Stack
 ✨ **Frontend** - *ReactJS, NextJS, VueJS, TailwindCSS*
 
@@ -14,8 +16,6 @@ I have worked on various projects, from small startups to enterprise solutions, 
 ✨ **DevOps** - *Docker, Kubernetes, Git, Github Actions, Jenkins, AWS, Firebase FCM*
 
 ✨ **Other** - *Typescript, Javascript, SSR, SSG, Web Accessibility*
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bootstrap,nginx,redux,k8s,docker,jest,git,mongodb,express,react,vue,tailwindcss,webpack,nodejs,nextjs,jenkins,aws,firebase&perline=10&theme=dark)](https://lenn0n.xyz)
 
 ## 💡 Current Focus
 🏳️ Learning Next.js and exploring MongoDB.
