@@ -23,9 +23,10 @@ I have worked on various projects, from small startups to enterprise solutions, 
 🏳️ Improving my soft skills to have better articulation of thoughts.
 
 ## 📫 Let's Connect!
-**LinkedIn**: https://www.linkedin.com/in/lennonbenedictjansuy/
 
 **Email**: lennonbenedictjansuy@gmail.com
+
+**LinkedIn**: [@lennonbenedictjansuy](https://www.linkedin.com/in/lennonbenedictjansuy/)
 
 **Portfolio**: https://lenn0n.xyz
 
