@@ -24,15 +24,17 @@ I have worked on various projects, from small startups to enterprise solutions, 
 
 ## 📫 Let's Connect!
 
-**Email**: lennonbenedictjansuy@gmail.com
+📨 **Email**: lennonbenedictjansuy@gmail.com
 
-**LinkedIn**: [@lennonbenedictjansuy](https://www.linkedin.com/in/lennonbenedictjansuy/)
+🔗 **LinkedIn**: [@lennonbenedictjansuy](https://www.linkedin.com/in/lennonbenedictjansuy/)
 
-**Portfolio**: https://lenn0n.xyz
+🔗 **Telegram**: [@lennonjansuy](https://t.me/lennonjansuy)
+
+🔗 **Portfolio**: https://lenn0n.xyz
 
 ## 🌟 Personal Web Projects / Mockups
 
-> Built with modern frontend and backend technologies:
+> Built with modern frontend and backend technologies.
 > 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,bootstrap,nginx,redux,k8s,docker,jest,git,mongodb,express,react,vue,tailwindcss,webpack,nodejs,nextjs,jenkins,aws,firebase&perline=30&theme=light)](https://lenn0n.xyz)
 
