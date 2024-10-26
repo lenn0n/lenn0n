@@ -41,8 +41,8 @@ I have worked on various projects, from small startups to enterprise solutions, 
 [![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040655.png?raw=true)](https://lenn0n.xyz)
 [![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040626.png?raw=true)](https://frontend-web-dev-lenn0n.web.app/)
 [![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%200406022.png?raw=true)](https://frontend-test-lenn0n.web.app/)
+![image](https://github.com/user-attachments/assets/8fae5a6f-084d-4841-a679-4a0b1c08d3a8)
 [![Preview](https://github.com/lenn0n/dentalism-app/blob/master/SS.png?raw=true)](https://dentalism-app.vercel.app/)
 [![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-10-01%20015740.png?raw=true)](https://purple-dreams.web.app)
-![Preview](https://github.com/lenn0n/lenn0n/blob/main/Screenshot%202024-09-30%20040845.png?raw=true)
 ![Preview](https://raw.githubusercontent.com/lenn0n/nr-admin-app/master/public/light.png)
 
