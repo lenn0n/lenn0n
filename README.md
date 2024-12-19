@@ -1,21 +1,23 @@
 # 👋 Hi, I'm Lennon!
 
-I'm a passionate web developer with expertise in React.js, Vue.js, Next.js, and backend services. 
+I'm a passionate web developer with expertise in React.js, Vue.js, Next.js, Sveltekit and backend services. 
 
 I have worked on various projects, from small startups to enterprise solutions, always focusing on delivering clean, maintainable code.
 
 ## 🚀 Tech Stack
-✨ **Frontend** - *ReactJS, NextJS, VueJS, TailwindCSS*
+✨ **Frontend** - *Sveltekit, ReactJS, NextJS, VueJS, TailwindCSS*
 
 ✨ **Backend** - *NodeJS, ExpressJS, MongoDB, mySQL, RESTful API, GraphQL*
 
-✨ **Tools** - *Webpack 5, NGINX, Workbox, Redux, Vuex, Vitest*
+✨ **Tools** - *Webpack 5, NGINX, Workbox, Redux, Vuex, Vitest, Electron*
 
 ✨ **DevOps** - *Docker, Kubernetes, Git, Github Actions, Jenkins, AWS, Firebase FCM*
 
 ✨ **Other** - *Typescript, Javascript, SSR, SSG, Web Accessibility*
 
 ## 💡 Current Focus
+🏳️ Learning Data Science thing and AI tech
+
 🏳️ Learning Next.js and exploring MongoDB.
 
 🏳️ Working on mockup projects to refine my frontend skills.
